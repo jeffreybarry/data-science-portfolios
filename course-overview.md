@@ -6,7 +6,7 @@ The course Data Science 401, which is a 1-credit course, is designed to help you
 
 Your portfolio must feature at least three projects or assignments from the courses you've taken as part of the Data Science minor. These should highlight your skills and competencies in data science.
 
-Creating a website for your portfolio is optional; it's not a mandatory requirement.
+Creating a website for your portfolio is optional; it's not a mandatory requirement. The portfolio also may be a set of PDFs instead of a website.
 
 ## Course Overview for Data Science 401
 
