@@ -32,11 +32,6 @@ You should confine your presentation to 10 minutes so that we have a bit of time
 ## Assignment 2: Reflective Essay
 
 
-
-Your essay should be carefully written, with proper grammar and in good style.  It needn't, and probably shouldn't, have a thesis, but it should nonetheless be organized.  Write as yourself, in the first person, in your own (professional and scholarly) voice.  The essay should be approximately 5-7 pages long.
-
-
-
 For this reflective essay, you're asked to provide an in-depth, thoughtful account of your journey through the Data Science minor. Unlike the informal presentation, this essay allows for more extensive discussion and reflection.
 
 Start by outlining each course you've taken as part of the minor, focusing not just on the skills you've acquired, but also on key ideas and insights you've gained in data analysis. For instance, you could discuss learning advanced techniques (e.g., "I learned how to use TWFE with panel data to deal simultaneously with unobserved time-invariant, unit-varying confounders and with unit-invariant, time-varying confounders, leaving only time-and-unit-varying confounders potentially omitted" or "I learned that a valid instrumental variable has to meet 4, only partially testable, assumptions: relevance, monotonicity, ignorability, and the exclusion restriction, and realized that in many applications these assumptions are not fully met" or "I learned how to use DAGs to express the researcher's qualitative assumptions about potential patterns of influence across a range of variables, from which we can deduce whether, conditional on those assumptions, a causal effect is identifiable and how" or "I learned about object-oriented programming, different kinds of object classes, how to write functions, and some basic tools for importing, cleaning, wrangling, visualizing, and modeling data").
@@ -53,4 +48,4 @@ For each course in the minor that you've taken, please also briefly discuss:
 
 Please note that you should not include the actual projects, plots, or other supplementary material in this essay. The focus should be on your reflections and insights.
 
-
+Your essay should be well-structured and clearly written, adhering to proper grammar and a professional, scholarly style. While it doesn't necessarily need to have a thesis, it should still have a logical flow. Write in the first person and use your own voice. Aim for a length of approximately 5-7 pages.
