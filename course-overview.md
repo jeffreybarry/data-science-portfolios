@@ -39,7 +39,7 @@ You should confine your presentation to 10 minutes so that we have a bit of time
 
 Due October 20 via Canvas.
 
-Start by outlining each course you've taken as part of the minor, focusing not just on the skills you've acquired, but also on key ideas and insights you've gained in data analysis. For instance, you could discuss learning advanced techniques (e.g., "I learned how to use TWFE with panel data to deal simultaneously with unobserved time-invariant, unit-varying confounders and with unit-invariant, time-varying confounders, leaving only time-and-unit-varying confounders potentially omitted" or "I learned that a valid instrumental variable has to meet 4, only partially testable, assumptions: relevance, monotonicity, ignorability, and the exclusion restriction, and realized that in many applications these assumptions are not fully met" or "I learned how to use DAGs to express the researcher's qualitative assumptions about potential patterns of influence across a range of variables, from which we can deduce whether, conditional on those assumptions, a causal effect is identifiable and how" or "I learned about object-oriented programming, different kinds of object classes, how to write functions, and some basic tools for importing, cleaning, wrangling, visualizing, and modeling data").
+Start by outlining each course you've taken as part of the minor, focusing not just on the skills you've acquired, but also on key ideas and insights you've gained in data analysis. For instance, you could discuss learning advanced techniques (e.g., "I learned how to use TWFE with panel data to deal simultaneously with unobserved time-invariant, unit-varying confounders and with unit-invariant, time-varying confounders, leaving only time-and-unit-varying confounders potentially omitted" or "I learned that a valid instrumental variable has to meet 4, only partially testable, assumptions: relevance, monotonicity, and the exclusion restriction, and realized that in many applications these assumptions are not fully met" or "I learned how to use DAGs to express the researcher's qualitative assumptions about potential patterns of influence across a range of variables, from which we can deduce whether, conditional on those assumptions, a causal effect is identifiable and how" or "I learned about object-oriented programming, different kinds of object classes, how to write functions, and some basic tools for importing, cleaning, wrangling, visualizing, and modeling data").
 
 For each course in the minor that you've taken, please also briefly discuss:
 
@@ -75,6 +75,6 @@ This final presentation serves as a bookend to the informal presentation you did
 
  ## Final Task: Uploading project and materials to Canvas
 
-Due before the end finals week.
+Due before the end of finals week.
 
 You are responsible, by the end of term, of ensuring that the DS portfolio requirements (at least 3 projects) are uploaded to Canvas.  If you have been completing the assignments as scheduled, you should already have the necessary content for your portfolio by the end of the term. Even if you have a website for your portfolio, you are still required to upload the projects to Canvas.
