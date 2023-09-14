@@ -1,4 +1,4 @@
-## Portfolio Requirement and Course Overview for Data Science 401 
+## Portfolio Requirement  
 
 To complete the Data Science minor, you are required to have a portfolio.
 
@@ -8,7 +8,11 @@ Your portfolio must feature at least three projects or assignments from the cour
 
 Creating a website for your portfolio is optional; it's not a mandatory requirement.
 
-In DS 401, you'll be given two assignments specifically aimed at helping you build the content for your portfolio.
+## Course Overview for Data Science 401
+
+The first part of DS 401 is structured to help you reflect on your trajectory through the minor. The second part of DS 401 is structured to help with the technical aspects of preparing your portfolio.
+
+In DS 401, you'll be given three assignments specifically aimed at helping you build the content for your portfolio.
 
 
 ## Assignment 1: Informal Presentation
