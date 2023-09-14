@@ -54,4 +54,37 @@ Please note that you should not include the actual projects, plots, or other sup
 Your essay should be well-structured and clearly written, adhering to proper grammar and a professional, scholarly style. While it doesn't necessarily need to have a thesis, it should still have a logical flow. Write in the first person and use your own voice. Aim for a length of approximately 5-7 pages.
 
 ## Assignment 3: In-Class Portfolio Presentation
-At the end of the term, you will present your portfolio in class. 
+
+ ### Assignment Description: In-Class Portfolio Presentation
+
+#### Objective:
+The aim of this assignment is for you to present your Data Science portfolio to the class. This presentation will offer a structured yet personalized overview of your academic journey in the Data Science minor, as well as highlight your key projects and competencies.
+
+#### Guidelines:
+
+1. **Duration**: Each presentation should last approximately 10-15 minutes, followed by a 5-minute Q&A session.
+
+2. **Course Overview**: Begin your presentation by outlining the Data Science courses you have taken as part of the minor. Briefly describe what each course covered, emphasizing its relevance to Data Science.
+
+3. **Project Highlights**: Showcase 3-4 key projects or assignments from these courses. For each project, provide the following information:
+    - Questions or Goals: What were the objectives of the project?
+    - Data: What dataset(s) did you use?
+    - Analytical Approach: What methods or techniques were applied?
+    - Basic Results: Summarize the key findings.
+
+4. **Media**: Be prepared to share your projects on screen. Visual aids like slides, plots, or tables are encouraged to enhance your presentation.
+
+5. **Optional Website**: If you've created a website for your portfolio, you may include a brief walkthrough. However, this is optional.
+
+6. **Professional Voice**: While this is an academic setting, consider this presentation as a practice run for professional settings. Dress appropriately and be mindful of your language and tone.
+
+7. **Q&A**: Be prepared for a 5-minute Q&A session after your presentation.
+
+#### Assessment Criteria:
+
+- Clarity and Organization: Is the presentation well-structured and easy to follow?
+- Content Relevance: Do the projects and courses highlight your Data Science skills and competencies?
+- Engagement: Are visual aids used effectively? Is the presenter able to maintain audience interest?
+- Q&A: Is the presenter able to effectively answer questions and provide further clarity if needed?
+
+Please rehearse your presentation multiple times to ensure it fits within the time limit and adequately covers all required points.
