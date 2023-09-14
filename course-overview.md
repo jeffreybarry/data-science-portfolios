@@ -52,3 +52,6 @@ For each course in the minor that you've taken, please also briefly discuss:
 Please note that you should not include the actual projects, plots, or other supplementary material in this essay. The focus should be on your reflections and insights.
 
 Your essay should be well-structured and clearly written, adhering to proper grammar and a professional, scholarly style. While it doesn't necessarily need to have a thesis, it should still have a logical flow. Write in the first person and use your own voice. Aim for a length of approximately 5-7 pages.
+
+## Assignment 3: Portfolio Presentation
+At the end of the term, you will present your portfolio in class. 
