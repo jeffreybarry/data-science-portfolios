@@ -59,6 +59,8 @@ Your essay should be well-structured and clearly written, adhering to proper gra
 
  ### Assignment Description: In-Class Portfolio Presentation
 
+The formal presentations of your portfolios will be during the weeks of November 13 and November 26 (before and after Thanksgiving week). (Exact dates depend upon meeting time TBD.) Since there are 7 people in the class: 3 or 4 will present during the week of November 13, and the remainder will present during the week of November 26.
+
 #### Objective:
 The aim of this assignment is for you to present your Data Science portfolio to the class. This presentation will offer a structured yet personalized overview of your academic journey in the Data Science minor, as well as highlight your key projects and competencies. If you've created a website for your portfolio, you may include a brief walkthrough.  
 
@@ -72,5 +74,7 @@ This final presentation serves as a bookend to the informal presentation you did
 - Q&A: Is the presenter able to effectively answer questions and provide further clarity if needed?
 
  ## Final Task: Uploading project and materials to Canvas
+
+Due before the end finals week.
 
 Your are responsible, by the end of term, of ensuring that the DS portfolio requirements (at least 3 projects) are uploaded to Canvas.  If you have been completing the assignments as scheduled, you should already have the necessary content for your portfolio by the end of the term. Even if you have a website for your portfolio, you are still required to upload the projects to Canvas.
