@@ -14,9 +14,10 @@ The first part of DS 401 is structured to help you reflect on your trajectory th
 
 In DS 401, you'll be given three assignments specifically aimed at helping you build the content for your portfolio.
 
-Due dates are in Canvas.
 
 ## Assignment 1: Informal Presentation
+
+The informal presentations will be during the weeks of October 2 and October 14. (Exact dates depend upon meeting time TBD.) Since there are 7 people in the class: 3 or 4 will present during the week of October 2, and the remainder will present during the week of October 14.
 
 For this informal presentation, your assignment is to guide us through the Data Science courses you've completed (or currently in progress or expect to take next term). For each course, describe its focus in terms of Data Science concepts and skills (e.g., "The course focused on basic data wrangling using R" or "We delved into econometrics, emphasizing regression analysis for cross-sectional and panel data").
 
