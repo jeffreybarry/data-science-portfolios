@@ -1,5 +1,7 @@
 # Guide to building a portfolio in data science
 
+See the [course overview](course-overview.md) for a description of Data Science 401 and assignments.
+
 
 ## Core competencies of the Data Science minor at Washington and Lee
 
