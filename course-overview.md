@@ -1,4 +1,4 @@
-## Portfolio Requirement and Course Overview for Data Science 401
+## Portfolio Requirement and Course Overview for Data Science 401 
 
 To complete the Data Science minor, you are required to have a portfolio.
 
