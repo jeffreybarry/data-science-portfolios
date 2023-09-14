@@ -77,4 +77,4 @@ This final presentation serves as a bookend to the informal presentation you did
 
 Due before the end finals week.
 
-Your are responsible, by the end of term, of ensuring that the DS portfolio requirements (at least 3 projects) are uploaded to Canvas.  If you have been completing the assignments as scheduled, you should already have the necessary content for your portfolio by the end of the term. Even if you have a website for your portfolio, you are still required to upload the projects to Canvas.
+You are responsible, by the end of term, of ensuring that the DS portfolio requirements (at least 3 projects) are uploaded to Canvas.  If you have been completing the assignments as scheduled, you should already have the necessary content for your portfolio by the end of the term. Even if you have a website for your portfolio, you are still required to upload the projects to Canvas.
