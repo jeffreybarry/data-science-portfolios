@@ -1,5 +1,5 @@
-# data-science-portfolios
-Guide to building a portfolio in data science
+# Guide to building a portfolio in data science
+
 
 ## Core competencies of the Data Science minor at Washington and Lee
 
