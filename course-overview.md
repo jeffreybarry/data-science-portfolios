@@ -31,6 +31,26 @@ You should confine your presentation to 10 minutes so that we have a bit of time
 
 ## Assignment 2: Reflective Essay
 
-This reflective essay should be a more extended, detailed, and carefully considered version of what you present to the group.  That is, you should use it to describe your trajectory through the DS minor.  Please tell us about each course, what you learned in it (skills, yes, but more important still, ideas about data analysis - e.g., "I learned how to use TWFE with panel data to deal simultaneously with unobserved time-invariant, unit-varying confounders and with unit-invariant, time-varying confounders, leaving only time-and-unit-varying confounders potentially omitted" or "I learned that a valid instrumental variable has to meet 4, only partially testable, assumptions: relevance, monotonicity, ignorability, and the exclusion restriction, and realized that in many applications these assumptions are not fully met" or "I learned how to use DAGs to express the researcher's qualitative assumptions about potential patterns of influence across a range of variables, from which we can deduce whether, conditional on those assumptions, a causal effect is identifiable and how" or "I learned about object-oriented programming, different kinds of object classes, how to write functions, and some basic tools for importing, cleaning, wrangling, visualizing, and modeling data").  Please also briefly discuss (a) any projects from that course you will include in your portfolio; (b) what their objectives were; (c) what you learned from them; and (d) their strengths and limitations as you see them today.  Please do not include the actual projects, plots, etc., in this essay.
+
 
 Your essay should be carefully written, with proper grammar and in good style.  It needn't, and probably shouldn't, have a thesis, but it should nonetheless be organized.  Write as yourself, in the first person, in your own (professional and scholarly) voice.  The essay should be approximately 5-7 pages long.
+
+
+
+For this reflective essay, you're asked to provide an in-depth, thoughtful account of your journey through the Data Science minor. Unlike the informal presentation, this essay allows for more extensive discussion and reflection.
+
+Start by outlining each course you've taken as part of the minor, focusing not just on the skills you've acquired, but also on key ideas and insights you've gained in data analysis. For instance, you could discuss learning advanced techniques (e.g., "I learned how to use TWFE with panel data to deal simultaneously with unobserved time-invariant, unit-varying confounders and with unit-invariant, time-varying confounders, leaving only time-and-unit-varying confounders potentially omitted" or "I learned that a valid instrumental variable has to meet 4, only partially testable, assumptions: relevance, monotonicity, ignorability, and the exclusion restriction, and realized that in many applications these assumptions are not fully met" or "I learned how to use DAGs to express the researcher's qualitative assumptions about potential patterns of influence across a range of variables, from which we can deduce whether, conditional on those assumptions, a causal effect is identifiable and how" or "I learned about object-oriented programming, different kinds of object classes, how to write functions, and some basic tools for importing, cleaning, wrangling, visualizing, and modeling data").
+
+For each course in the minor that you've taken, please also briefly discuss:
+
+1. Projects: Mention any projects from that course you plan to include in your portfolio.
+  
+2. Objectives: What were the objectives of these projects?
+  
+3. Learning Outcomes: What insights or skills did you gain from these projects?
+
+4. Strengths and Limitations: Reflect on what you see as the strengths and limitations of these projects, as you understand them today.
+
+Please note that you should not include the actual projects, plots, or other supplementary material in this essay. The focus should be on your reflections and insights.
+
+
