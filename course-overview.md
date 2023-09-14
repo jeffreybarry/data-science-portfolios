@@ -1,3 +1,5 @@
+## Portfolio Requirement and Course Overview for Data Science 401
+
 To complete the Data Science minor, you are required to have a portfolio.
 
 The course Data Science 401, which is a 1-credit course, is designed to help you fulfill this portfolio requirement. You will receive a grade for completing DS 401.
