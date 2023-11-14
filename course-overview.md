@@ -87,5 +87,5 @@ In reflective essay, use subheadings to identify sections where you discuss each
 
 Include course dept/number, title, professor and term you took the course. 
 
-
+When you mention a statistical model, a visualization method, or some other data science method: briefly describe your understanding of that method, why that model is used, and how you might use it in other settings. 
 
