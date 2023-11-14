@@ -83,6 +83,7 @@ You are responsible, by the end of term, of ensuring that the DS portfolio requi
 
 A web portfolio is entirely optional. However, you must submit your portfolio as a set of files via Canvas. (Further details on upload instructions will be provided in class.) Even if you have a web portfolio, you must also submit the "print" portfolio as files.
 
+In reflective essay, use subheadings to identify sections where you discuss each course or project. 
 
 
 
