@@ -85,5 +85,7 @@ A web portfolio is entirely optional. However, you must submit your portfolio as
 
 In reflective essay, use subheadings to identify sections where you discuss each course or project. 
 
+Include course dept/number, title, professor and term you took the course. 
+
 
 
